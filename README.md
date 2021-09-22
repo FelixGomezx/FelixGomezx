@@ -2,7 +2,7 @@
 - 👀 I’m interested in  learn everything i can.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to learn from proffesonals in everything on programming
-- 📫 How to reach me on instgram like @felixgomezx.
+- 📫 How to reach me on instagram like @felixgomezx.
 
 <!---
 FelixGomezx/FelixGomezx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
